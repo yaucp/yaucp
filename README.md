@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hello There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
-<!--
-**yaucp/yaucp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently a Year 5 HKUCS student (he/him) (in 🇭🇰), about to graduate in June 2024 🎉🧑‍💻 Planning to work in countries like Japan, UK, Australia or Netherlands
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on ...
+- My Courses...... (Robotics/App development!)
+- My Final Year Project (An Swift iOS app with GoLang/gRPC as backend with openAI chat model...)
+- Trying to build my personal website as well.....
+- Learning GoLang + Swift + PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 Skills
+1. Python
+2. JavaScript (Node.js, React.js, Next.js, TypeScript)
+3. GoLang
+4. Java
+5. C/C++
+6. Haskell (Very basic tho..)
+7. MySQL
+
+### 📪 Find me on...
+- social@yaucp.dev
+- [📽️Letterboxd](https://letterboxd.com/yaucp/)
+
+### 👀 "Fun" Facts
+- I like Star Wars?
+- I like bikes
+- Big fan of Wong Kar Wai!
+- Wanna attend a film festival in the future
