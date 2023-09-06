@@ -18,7 +18,7 @@ I am currently a Year 5 HKUCS student (he/him) (in 🇭🇰), about to graduate 
 7. MySQL
 
 ### 📪 Find me on...
-- social@yaucp.dev
+- github@yaucp.dev
 - [📽️Letterboxd](https://letterboxd.com/yaucp/)
 
 ### 👀 "Fun" Facts
