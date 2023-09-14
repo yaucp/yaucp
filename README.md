@@ -18,6 +18,7 @@ I am currently a Year 5 HKUCS student (he/him) (in 🇭🇰), about to graduate 
 7. MySQL
 
 ### 📪 Find me on...
+- [My website](https://yaucp.dev) (This is automatically generated!)
 - github@yaucp.dev
 - [📽️Letterboxd](https://letterboxd.com/yaucp/)
 
@@ -26,3 +27,4 @@ I am currently a Year 5 HKUCS student (he/him) (in 🇭🇰), about to graduate 
 - I like bikes
 - Big fan of Wong Kar Wai!
 - Wanna attend a film festival in the future
+- Have a great girlfriend!
