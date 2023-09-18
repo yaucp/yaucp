@@ -58,7 +58,7 @@
       "endDate": "2022-12",
       "highlights": [
         "Connected multiple commercial banks to an internal open-banking API-based system by reverse engineering and web scraping data from banks securely in TypeScript and Node.js",
-        "Handled different communications between micro-services with Go and Protocol Buffers",
+        "Handled different communications between micro-services with Go and gRPC.",
         "Added demo of API functionality with React.js",
         "Wrote unit tests to ensure high code quality with Jest and Nock"
       ],
