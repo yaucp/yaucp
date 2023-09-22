@@ -57,10 +57,10 @@
       "startDate": "2022-07",
       "endDate": "2022-12",
       "highlights": [
-        "Connected multiple commercial banks to an internal open-banking API-based system by reverse engineering and web scraping data from banks securely in TypeScript and Node.js",
-        "Handled different communications between micro-services with Go and gRPC.",
-        "Added demo of API functionality with React.js",
-        "Wrote unit tests to ensure high code quality with Jest and Nock"
+        "Successfully integrated major commercial banks into the internal open-banking system through reverse engineering and secure web scraping in TypeScript and Node.js.",
+        "Facilitated efficient micro-service communications using Go and gRPC.",
+        "Developed a demo showcasing API functionality in React.js, leading to enhanced clarity for external clients regarding the platform's capabilities.",
+        "Enhanced code quality by implementing unit tests using Jest and Nock, resulting in a reduction in system bugs."
       ],
       "summary": "",
       "url": "https://www.finverse.com",
@@ -84,7 +84,9 @@
       "position": "Programmer Trainee Intern",
       "startDate": "2021-06",
       "endDate": "2021-07",
-      "highlights": ["Used Python to collect and group real-time open data to update local geodatabase in ArcGIS Pro"],
+      "highlights": [
+        "Used Python to collect and group real-time open data to update local geodatabase in ArcGIS Pro"
+      ],
       "summary": "",
       "url": "",
       "location": "Hong Kong SAR"
@@ -167,22 +169,47 @@
     {
       "name": "JavaScript Frameworks/Libraries",
       "level": "",
-      "keywords": ["TypeScript", "Node.js","React.js", "Next.js", "Jest"]
+      "keywords": [
+        "TypeScript",
+        "Node.js",
+        "React.js",
+        "Next.js",
+        "Jest"
+      ]
     },
     {
       "name": "Programming Technologies",
       "level": "",
-      "keywords": ["Python", "Java","Go", "C++/C", "Haskell", "MySQL"]
+      "keywords": [
+        "Python",
+        "Java",
+        "Go",
+        "C++/C",
+        "Haskell",
+        "MySQL"
+      ]
     },
     {
       "name": "Others",
       "level": "",
-      "keywords": ["Git", "GitHub/GitLab","Unix/MacOS","Ubuntu","Google Cloud Platform (GCP)", "Protocol Buffers", "Cloudflare Registrar & Page", "GitHub Actions"]
+      "keywords": [
+        "Git",
+        "GitHub/GitLab",
+        "Unix/MacOS",
+        "Ubuntu",
+        "Google Cloud Platform (GCP)",
+        "Protocol Buffers",
+        "Cloudflare Registrar & Page",
+        "GitHub Actions"
+      ]
     },
     {
       "name": "Creative Stuff",
       "level": "Beginner",
-      "keywords": ["Adobe Premiere Pro", "Adobe Photoshop"]
+      "keywords": [
+        "Adobe Premiere Pro",
+        "Adobe Photoshop"
+      ]
     }
   ],
   "languages": [
