@@ -178,15 +178,15 @@
       ]
     },
     {
-      "name": "Programming Technologies",
+      "name": "Programming Languages",
       "level": "",
       "keywords": [
         "Python",
         "Java",
+        "Kotlin",
         "Go",
         "C++/C",
-        "Haskell",
-        "MySQL"
+        "Haskell"
       ]
     },
     {
