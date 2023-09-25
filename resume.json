@@ -110,16 +110,16 @@
       "endDate": "2024-06",
       "score": "",
       "courses": [
-        "COMP2396 - Object-oriented programming and Java",
-        "COMP3322 - Modern Technologies on World Wide Web",
         "COMP2119 - Introduction to data structures and algorithms",
+        "COMP2120 - Computer organization",
+        "COMP2396 - Object-oriented programming and Java",
         "COMP3230 - Principles of operating systems",
+        "COMP3251 - Algorithm design",
         "COMP3258 - Functional programming (Haskell)",
         "COMP3278 - Introduction to database management systems",
+        "COMP3322 - Modern Technologies on World Wide Web",
         "COMP3355 - Cyber Security",
-        "COMP3251 - Algorithm design",
-        "COMP3259 - Principles of programming languages (Haskell) (A+)",
-        "COMP2120 - Computer organization"
+        "COMP3259 - Principles of programming languages (Haskell) (A+)"
       ]
     },
     {
