@@ -3,10 +3,9 @@
 I am currently a Year 5 HKUCS student (he/him) (in 🇭🇰), about to graduate in June 2024 🎉🧑‍💻 Planning to work in countries like Japan, UK, Australia or Netherlands
 
 ### 🔭 I’m currently working on ...
-- My Courses...... (Robotics/App development!)
-- My Final Year Project (An Swift iOS app with GoLang/gRPC as backend with openAI chat model...)
-- Trying to build my personal website as well.....
-- Learning GoLang + Swift + PostgreSQL
+- App development course
+- My Final Year Project (An Swift/SwiftUI iOS app with GoLang/gRPC, Supabase as backend with OpenAI embeddings & chat completions API...)
+- Learning GoLang + gRPC + Swift + PostgreSQL 
 
 ### 🧑‍💻 Skills
 1. Python
