@@ -261,6 +261,22 @@
   "references": [],
   "projects": [
     {
+      "name": "An All-in-one HKU App for Students (Final Year Project/Final Research Project)",
+      "startDate": "2023-09-01",
+      "summary": "This project aims to tackle the pressing necessity to address the digital confusion that the students face at HKU. The envisioned mobile application seeks to amalgamate various student-centric functionalities into a singular, user-friendly, intuitive and modern platform. By potentially leveraging web scraping technology or obtaining API access from ITS, the app aims to aggregate essential data from HKU Portal, simplifying access to academic data, facility bookings, and campus events, while implementing intelligent and nice-to-have features like course reviews, GPT-powered friendship pairings, smart notifications and an intelligent chatbot with extensive knowledge of the student’s information to improve and enrich student’s campus life.",
+      "url": "https://wp2023.cs.hku.hk/fyp23079/",
+      "keywords": [
+        "Swift",
+        "SwiftUI",
+        "Go",
+        "gRPC",
+        "PostgreSQL",
+        "Google Cloud Platform",
+        "Supabase",
+        "OpenAI API"
+      ]
+    },
+    {
       "name": "Haskell-based JavaScript-like interpreter",
       "startDate": "2023-01-01",
       "endDate": "2023-05-31",
