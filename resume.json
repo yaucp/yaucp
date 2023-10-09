@@ -68,6 +68,7 @@
       "highlights": [
         "Successfully integrated major commercial banks into the internal open-banking system through reverse engineering and secure web scraping in TypeScript and Node.js.",
         "Facilitated efficient micro-service communications using Go and gRPC.",
+        "Trained a machine learning model using Python for solving captchas, incorporating image pre-processing techniques, and successfully deployed to production via Google Cloud Platform’s bucket storage.",
         "Developed a demo showcasing API functionality in React.js, leading to enhanced clarity for external clients regarding the platform's capabilities.",
         "Enhanced code quality by implementing unit tests using Jest and Nock, resulting in a reduction in system bugs."
       ],
