@@ -29,12 +29,14 @@
   },
   "work": [
     {
-      "name": "Molekiu Limited",
-      "position": "Software Developer (Part-time)",
-      "startDate": "2023-10",
-      "highlights": [],
+      "name": "Wave Commerce",
+      "position": "Upcoming Software Engineer Intern",
+      "startDate": "2023-12",
+      "highlights": [
+        "Expected technology stack: Vue.js, Python, JavaScript, AWS Serverless"
+      ],
       "summary": "",
-      "url": "",
+      "url": "https://www.wavecommerce.hk",
       "location": "Hong Kong SAR"
     },
     {
