@@ -34,7 +34,13 @@
       "startDate": "2024-06",
       "endDate": "2024-08",
       "highlights": [
-        "Developed high-performance intraday data calculation system in post-trade system using GoLang:\n1. Implemented parallel processing for real-time data platform within\n2. Designed and implemented Clickhouse table structure for hourly data snapshots\n3. Developed and designed API endpoints with traders for retrieving data snapshots from Clickhouse database\n4. Conducted performance and memory optimization to efficiently handle large datasets with limited resources\n5. Ensured code quality through comprehensive unit testing and mocking using Go's test library and mockgen\n6. Deployed system via Nomad and have done UAT testing",
+        "Developed high-performance intraday data calculation system in post-trade system using GoLang:",
+        "\t1. Implemented parallel processing for real-time data platform within",
+        "\t2. Designed and implemented Clickhouse table structure for hourly data snapshots",
+        "\t3. Developed and designed API endpoints with traders for retrieving data snapshots from Clickhouse database",
+        "\t4. Conducted performance and memory optimization to efficiently handle large datasets with limited resources",
+        "\t5. Ensured code quality through comprehensive unit testing and mocking using Go's test library and mockgen",
+        "\t6. Deployed system via Nomad and have done UAT testing",
         "Migrated from stale Redis system to GraphQL in post-trade service, significantly enhancing quote price accuracy and reliability of position monitoring."
       ],
       "summary": "",
@@ -42,7 +48,7 @@
     },
     {
       "name": "Bowtie Life Insurance Company Limited",
-      "position": "Software Engineer Intern (Backend-focused)",
+      "position": "Software Engineer Intern (Backend)",
       "startDate": "2024-02",
       "endDate": "2024-05",
       "highlights": [
